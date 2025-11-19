@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br>
-<br>
+<!-- <br>
 <h2 align="center"> 🚀🧩 My-Projects </h2>
 <div align="left">
   <table>
@@ -33,7 +33,7 @@
   </table>
 </div>
 <br>
-<br>
+<br> -->
 
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 <div align="center">
